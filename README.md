@@ -1,1 +1,2 @@
-# HacktoberFest2022_
+# HacktoberFest2022
+This repo is for HacktoberFest
